@@ -1,4 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-inventory-service,com.hdbank.inventoryservice,InventoryServiceApplication,5,3,0,0,2,1,1,1,1,1
-inventory-service,com.hdbank.inventoryservice.controller,InventoryController,0,5,0,0,0,1,0,1,0,1
-inventory-service,com.hdbank.inventoryservice.service,InventoryService,2,50,1,7,0,15,2,6,1,3

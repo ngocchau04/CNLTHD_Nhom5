@@ -1,0 +1,5 @@
+FROM openjdk:17-jdk-alpine
+# Copy file jar sau khi build vào container
+COPY target/*.jar app.jar
+# Lệnh khởi chạy ứng dụng
+ENTRYPOINT ["java","-jar","/app.jar"]
