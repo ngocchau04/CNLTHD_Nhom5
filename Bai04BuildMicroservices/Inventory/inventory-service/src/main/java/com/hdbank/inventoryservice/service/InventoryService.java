@@ -1,15 +1,17 @@
 package com.hdbank.inventoryservice.service;
 
-import com.hdbank.inventoryservice.dto.InventoryResponse;
-import com.hdbank.inventoryservice.model.Inventory;
-import com.hdbank.inventoryservice.repository.InventoryRepository;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
-import java.util.function.Function;
 import java.util.stream.Collectors;
-import lombok.RequiredArgsConstructor;
+
 import org.springframework.stereotype.Service;
+
+import com.hdbank.inventoryservice.dto.InventoryResponse;
+import com.hdbank.inventoryservice.model.Inventory;
+import com.hdbank.inventoryservice.repository.InventoryRepository;
+
+import lombok.RequiredArgsConstructor;
 
 @Service
 @RequiredArgsConstructor
