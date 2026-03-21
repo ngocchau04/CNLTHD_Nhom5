@@ -67,7 +67,3 @@ Sau khi chạy, service lắng nghe cổng mặc định 8080 (có thể thay đ
 ## Ghi chú cho người phát triển
 - Nếu pom.xml thay đổi: re-import project Maven trong IDE hoặc restart Java language server.
 - Đặt `JAVA_HOME` trỏ tới JDK 17 khi build.
-
-Nếu cần, tôi có thể:
-- Chạy build và gửi kết quả log, hoặc
-- Chuyển thêm các lớp khỏi Lombok để loại hoàn toàn phụ thuộc IDE.
