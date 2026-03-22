@@ -1,0 +1,7 @@
+services:
+  # Chạy API Gateway Độc Lập
+  apigateway-service:
+    build: .
+    container_name: apigateway-service
+    ports:
+      - "8080:8080"
