@@ -13,9 +13,13 @@ Công nghệ sử dụng
 Cấu trúc dự án
 
 discovery-server/
+
  ├── src/
+ 
  ├── pom.xml
+ 
  ├── mvnw
+ 
  ├── mvnw.cmd
 
 Cấu hình chính
