@@ -9,9 +9,8 @@
 5. 3122411141 - Phan Thị Hồng Nhiên
 
 
-Hướng dẫn chạy dự án:
-
 ---
+Hướng dẫn chạy dự án:
 
 BƯỚC 1: CHẠY DATABASE
 
