@@ -1,0 +1,10 @@
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\config\RedisConfig.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\config\SecurityConfig.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\config\SeedDataConfig.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\controller\ProductController.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\dto\ProductDTO.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\mapper\ProductMapper.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\model\Product.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\ProductServiceApplication.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\repository\ProductRepo.java
+D:\Bai_6\ProjectWeb-main\BE\product-service\src\main\java\vn\tt\practice\productservice\service\ProductService.java
